@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+/* STUDENT 2: Add styles to make the links bold and red */
+footer a {
+    text-decoration: none;
+}
